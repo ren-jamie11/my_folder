@@ -4,4 +4,6 @@ Hi! I'm learning how to use github.
 2. Added a cool feature!
 3. Added another cool feature!  
 
+Added another feature ready for PR
+
 Amazing!
